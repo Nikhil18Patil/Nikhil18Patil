@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil18Patil
-- 👀 I’m interested in Coding, Android Development.
-- 🌱 I’m currently learning  Android Development
-- 💞️ I’m looking to collaborate on kotlin android app, C++ codes
+- 👀 I’m interested in Coding, Backend Development.
+- 🌱 I’m currently learning  Backend Development
+- 💞️ I’m looking to Python,, django, flask
 - 📫 How to reach me nikhilpatil18012004@gmail.com
 -     Linkedlin account:- https://www.linkedin.com/in/nikhil-patil-9a97971b5
 
